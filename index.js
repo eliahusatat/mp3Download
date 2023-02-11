@@ -13,9 +13,9 @@ const readline = require('readline');
 // downloadAllFile();
 // eliahu();
 
-
+// for downloaD all the files run  part1() and after this finish run  downloadAllFile()
 part1();
-downloadAllFile();
+// downloadAllFile();
 /*****************************************  part 1 - create json with all the data abut the files  *********************************************/
 
 
